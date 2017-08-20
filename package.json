@@ -1,0 +1,23 @@
+{
+  "name": "pizza-party-mdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "uncss": "jekyll build && node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldeicide/pizza-party-mdl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieldeicide/pizza-party-mdl/issues"
+  },
+  "homepage": "https://github.com/danieldeicide/pizza-party-mdl#readme",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "uncss": "^0.15.0"
+  }
+}
